@@ -1,7 +1,7 @@
-hey there Iam Hoor Ain Saeed Khan.
+hey there! Iam Hoor Ain Saeed Khan.
 I'm an undergraduate Artificial Intelligence student in my 3rd semester, learning how to build smart systems one step at a time.
 ABOUT ME:
-- Pursuing B.Tech in Artificial Intelligence.
+- Pursuing B.S in Artificial Intelligence.
 -Currently learning: C++, Python, and core AI fundamentals. 
 -I'm working on small personal and practice projects. 
 -Interested in AI, logic building, and problem solving..
